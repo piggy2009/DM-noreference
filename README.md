@@ -16,6 +16,6 @@ label_clip.py is used to generate the label.txt, namely CLIP text, for text feat
 
 color_filter.py is used to filter the 'cold' color and retain the 'warm' color in the underwater images.
 
-nethook.py is a package to modify the neural units, extracted from 'Gan dissection: Visualizing and understanding generative adversarial networks, ICLR, 2018'. Based on this package, visualize.py is used to find out which unit controls the 'red color'.
+nethook.py is a package to modify the neural units, extracted from 'Gan dissection: Visualizing and understanding generative adversarial networks, ICLR, 2018'. Based on this package, visualize.py is used to find out which unit controls the 'red color'. (P.S: There are too many bugs to catch, please make yourself to use this code)
 
-P.S. The author is lazy again that he still doesn't want to write more information.
+P.S. The author is lazy again that he still doesn't want to write more information and catch bugs.
