@@ -217,10 +217,10 @@ if __name__ == '__main__':
     units_list_neg = []
     unit_num = 48 * 2 ** 1
     check_layer = 'encoder_water.block2_control'
-    semantic_thres = 0.008
+    semantic_thres = 0.005
     close_to = 'red style'
     for i, line in enumerate(open(image_root + '/label.txt')):
-        if i == 30:
+        if i == 50:
             break
         full_image_name, label_ = line.split(' ')
         # print(full_image_name.split('/')[-1])
