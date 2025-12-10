@@ -1,4 +1,4 @@
-# DM_noreference
+# DM-noreference
 
 This is the code of the paper "Learning Underwater Image Enhancement Iteratively without Reference Images" accepted by AAAI 2026
 
